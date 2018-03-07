@@ -3,6 +3,6 @@
 ### SokoSkeleton 
 A Skeleton projekt mappája, tehát itt a *forráskód*. 
 ### Diagramok 
-Modell fájloknak.
+Model fájlokat tartalmazza (WhiteStarUML, StarUML projektek).
 ## Dokumentáció 
 5. Szkeleton tervezése.docx
